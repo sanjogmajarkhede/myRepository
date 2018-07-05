@@ -1,0 +1,5 @@
+Class MyClass
+{
+System.out.println("hello world");
+
+}
